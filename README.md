@@ -45,19 +45,33 @@ Data integrity was maintained before analysis
 🧠 Business Questions Solved
 
 Who is the most senior employee based on job title?
+
 Which country has the highest number of invoices?
+
 Write a query that returns the email, first name, last name, and genre of all Rock music listeners, ordered alphabetically by email.
+
 Write a query that returns the email, first name, last name, and genre of all Rock music listeners whose email starts with the letter “A”, ordered alphabetically by email.
+
 Let’s invite the artists who have written the most Rock music in our dataset.
+
 Write a query that returns the artist name and total track count of the top 10 Rock bands.
+
 Return all track names that have a song length longer than the average song length.
+
 Return the track name and duration in milliseconds, ordered by song length with the longest songs listed first.
+
 Find the total amount spent by each customer on each artist.
+
 Write a query that returns the customer name, artist name, and total amount spent.
+
 Find the customer who spent the most on the best-selling artist.
+
 Find the most popular music genre for each country based on the highest number of purchases.
+
 Return a table showing the country and its top genre.
+
 Find the customer who spent the most on music in each country.
+
 Write a query that returns the customer name, country, and total amount spent (top customer per country).
 
 (Full queries are available in the SQL files)
